@@ -1,0 +1,102 @@
+[{
+  "name": "Pranav Jain",
+  "education": [
+    {
+      "degree": "B.E - Computer Science",
+      "university": "Thapar Institute of Engineering and Technology",
+      "years": "2022 - 2026",
+      "gpa": "9.42"
+    }
+  ],
+  "experience_summary": "Research Intern at Samsung R&D Institute India, Bangalore (Oct 2024 \u2013 Mar 2025). Led project automation, frontend development, and partial backend integration. Automated image evaluation, applied image processing, and reduced human bias.",
+  "skills": [
+    "Python",
+    "JavaScript",
+    "C",
+    "C++",
+    "R",
+    "SQL",
+    "LaTeX",
+    "Appium",
+    "Django",
+    "Image Processing",
+    "OpenCV",
+    "Flask",
+    "Node.js",
+    "MongoDB",
+    "ReactJS",
+    "HTML",
+    "CSS",
+    "YOLOv5",
+    "LabelImg",
+    "OCR",
+    "Pandas",
+    "NumPy",
+    "Arduino Programming",
+    "Opengl",
+    "Data Structures & Algorithms",
+    "Computer Networks",
+    "Artificial Intelligence",
+    "Database Management System (DBMS)",
+    "OOPS",
+    "Machine Learning",
+    "Data Science",
+    "Web Development"
+  ],
+  "projects_summary": [
+    {
+      "name": "Image Quality Evaluation System",
+      "description": "Automated image evaluation pipeline comparing Galaxy Enhance-X with other apps. Used a hybrid objective-subjective model to reduce human bias.",
+      "tech_stack": [
+        "Appium",
+        "Django",
+        "Image Processing"
+      ]
+    },
+    {
+      "name": "Topsis Package",
+      "description": "Python package for multi-criteria decision-making using the TOPSIS method. Includes Flask-based web interface and email system.",
+      "tech_stack": [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "Flask"
+      ]
+    },
+    {
+      "name": "AID Bridge NGO Web Platform",
+      "description": "Full-stack web platform for NGO donations.  Includes dashboards for donors and NGOs.",
+      "tech_stack": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Node.js",
+        "MongoDB",
+        "ReactJS"
+      ]
+    },
+    {
+      "name": "Calorie Detection System",
+      "description": "Automated calorie detection system using YOLOv5 and EasyOCR.  Includes a Flask-based web interface.",
+      "tech_stack": [
+        "YOLOv5",
+        "LabelImg",
+        "OCR",
+        "Flask",
+        "OpenCV"
+      ]
+    }
+  ],
+  "github_or_portfolio_links": [],
+  "certifications": [],
+  "participation": [
+    "Group Representative, improved subgroup project submission rates by 50%"
+  ],
+  "score": 0.75,
+  "tier": "high",
+  "tags": [
+    "project_ready",
+    "well_presented",
+    "diverse_skills"
+  ]
+}]
